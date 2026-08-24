@@ -248,7 +248,7 @@ The duplicate classification does not change the technical behavior observed dur
 
 The following video demonstrates the proof of concept described in this report, including the authenticated session, manipulation of the `basketId`, execution of the GraphQL operation, and the resulting behavior.
 
-> **Video:** `poc.mp4`
+https://github.com/user-attachments/assets/b89371ab-549f-4752-9168-7dd2d93d8d2b
 
 ---
 
