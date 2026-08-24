@@ -1,9 +1,48 @@
-# BOLA / IDOR — Unauthorized Manipulation of Another User's Basket via GraphQL
+<h1 align="center">
+  BOLA / IDOR — Unauthorized Manipulation of Another User's Basket via GraphQL
+</h1>
 
-> **Platform:** Bugcrowd
-> **Category:** Broken Access Control (BAC) → Insecure Direct Object References (IDOR)
-> **VRT:** Modify/View Sensitive Information — Complex Object Identifiers (GUID/UUID)
-> **Status:** Duplicate
+<p align="center">
+  <strong>Broken Object Level Authorization</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Bugcrowd-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Category-BOLA%20%2F%20IDOR-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Technology-GraphQL-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Duplicate-lightgrey?style=flat-square">
+</p>
+
+---
+
+<h3 align="center">Report Information</h3>
+
+<table align="center">
+  <tr>
+    <th>Field</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><strong>Platform</strong></td>
+    <td>Bugcrowd</td>
+  </tr>
+  <tr>
+    <td><strong>Category</strong></td>
+    <td>Broken Access Control → IDOR</td>
+  </tr>
+  <tr>
+    <td><strong>VRT</strong></td>
+    <td>Modify/View Sensitive Information — Complex Object Identifiers (GUID/UUID)</td>
+  </tr>
+  <tr>
+    <td><strong>Technology</strong></td>
+    <td>GraphQL</td>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>Duplicate</td>
+  </tr>
+</table>
 
 ## Overview
 
